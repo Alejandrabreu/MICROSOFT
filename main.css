@@ -1,0 +1,26 @@
+body {
+      text-align: center;
+      background-image:url(background.png);
+
+}
+.bigcolor{
+    background-color: yellow;
+    padding-bottom: 20px; /*dar un espacio de 2 lineas*/
+}
+.info{
+color: #F5FFFA;
+}
+h1{
+  font-family: 'Nosifer';
+
+}
+p{
+  color: #F5FFFA;
+  font-family: 'Germania One';
+  font-size: 20px;
+}
+
+.enlaces{
+  padding-bottom: 20px; /*dar un espacio de 2 lineas*/
+  border-top: 2px solid yellow;
+}
